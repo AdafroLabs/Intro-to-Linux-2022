@@ -9,8 +9,13 @@ Where is Linux Used<br>
 What is open source 
   ## Linux Distros 
 Examples 
+
 Debian  & Ubuntu 
-REHL & CentOS 
+
+[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) & [CentOS](https://www.centos.org/) 
+
+Fedora
+
   ## Installing Linux 
 Selecting compatible hardware
 Install Ubuntu 
