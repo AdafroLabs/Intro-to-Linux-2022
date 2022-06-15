@@ -7,7 +7,7 @@ This course provides learners with the necessary skills for beginning Linux, a f
 History of Linux<br>
 Where is Linux Used<br>
 What is open source 
-  ## Linux Distros 
+  ## Linux Distro 
 Examples 
 
 Debian  & Ubuntu 
