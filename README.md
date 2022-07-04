@@ -33,12 +33,7 @@ Selecting compatible hardware
 Install Ubuntu 
 Desktop 
 Server 
-Install Centos ?
-  ## Common Desktop Applications
-Updates 
-How to get software 
-Productivity 
-Internet browsers 
+Install Centos  
   ## Linux Command Line 
 Intro to Terminal - shortcuts 
 Intro to shell - BASH 
