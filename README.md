@@ -15,15 +15,14 @@ Familiarize themselves with Linux as an operating system
    6. Networking with Linux(Bascis)<br>
  
 ## Assignments & Labs 
-   1. Intoduction<br>
-   2. Installation<br>
-   3. Shell Commands(Syntax & Pathnames)<br>
-   4. Shell Commands(Filters)<br>
-   5. Shell Commands(Standard Input, Output and Error & Redirection)<br>
-   6. User Management<br>
-   7. Permissions<br>
-   8. Processes<br>
-   9. Networking<br>
-   10. Final Assignment<br>
+   1. Installation<br>
+   2. Shell Commands(Syntax & Pathnames)<br>
+   3. Shell Commands(Filters)<br>
+   4. Shell Commands(Standard Input, Output and Error & Redirection)<br>
+   5. User Management<br>
+   6. Permissions<br>
+   7. Processes<br>
+   8. Networking<br>
+   9. Final Assignment<br>
    
 
