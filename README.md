@@ -7,39 +7,23 @@ Execute Linux commands from the Linux command line interface<br>
 Familiarize themselves with Linux as an operating system
 
 ## Lectures (Notes & Labs) 
-  ## Intro to Linux<br>
-  Linux is just like any other operating system, think windows and macos. An operating system is software that manages all of the hardware resources associated with your desktop or laptop, it manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function.<br>
-History of Linux<br>
-In 1991, a finish student named Linus Torvalds started working on a personal project of creating his own system kernel which later became an entire operating system with the kernel at the center. You can read more about it here https://en.wikipedia.org/wiki/History_of_Linux.<br> 
-Where is Linux Used<br>
-Linux is used everywhere, chances are that you have used it unknowingly.the Linux Kernel runs under the hood in your Android smartphone, smart tvs, routers, almost all IOT Devices<br>
-How about desktops and laptops ? Since windows and macOS are the popular ones you won't walk in a shop and buy a linux laptop or computer . However one can intentionally  install linux on their own machine. This is popular among developers.<br>
-Raspberry Pi - yes the ones you are currently using if you are at the Adafro Labs computer lab<br>
-Multi-national, Big or small companies<br>
-International Space Station - Red Hat Linux<br>
-
-What is open source 
-  ## Linux Distro 
-Examples 
-
-Debian  & Ubuntu 
-
-[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) & [CentOS](https://www.centos.org/) 
-
-Fedora
-
-  ## Installing Linux 
-Selecting compatible hardware
-Install Ubuntu 
-Desktop 
-Server 
-Install Centos  
-  ## Linux Command Line 
-Intro to Terminal - shortcuts 
-Intro to shell - BASH 
-Commands - 14 
-
-  ## Networking with Linux (Basics)
-  ## Linux Security System(Basics) 
-## Assignments
+   1. Intro to Linux<br>
+   2. Lnux Distributions<br>
+   3. Installing Linux<br>
+   4. Uing the Linux Command Line<br>
+   5. Linux System Security(Basics)<br>
+   6. Networking with Linux(Bascis)<br>
+ 
+## Assignments & Labs 
+   1. Intoduction<br>
+   2. Installation<br>
+   3. Shell Commands(Syntax & Pathnames)<br>
+   4. Shell Commands(Filters)<br>
+   5. Shell Commands(Standard Input, Output and Error & Redirection)<br>
+   6. User Management<br>
+   7. Permissions<br>
+   8. Processes<br>
+   9. Networking<br>
+   10. Final Assignment<br>
+   
 
