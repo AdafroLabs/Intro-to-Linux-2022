@@ -17,12 +17,12 @@ Familiarize themselves with Linux as an operating system
 ## Assignments & Labs 
    1. Installation<br>
    2. Shell Commands(Syntax & Pathnames)<br>
-   3. Shell Commands(Filters)<br>
-   4. Shell Commands(Standard Input, Output and Error & Redirection)<br>
-   5. User Management<br>
-   6. Permissions<br>
-   7. Processes<br>
-   8. Networking<br>
-   9. Final Assignment<br>
+   3. Moving, Copying & Renaming Files & Directories<br>
+   4. File Permissions<br>
+   5. Shell Expansion characters, Quoting & Finding files<br>
+   6. Filters<br>
+   7. Standard Input, Output & Error<br>
+   8. Processes<br>
+   9. Final Assignment - Bandit Game<br>
    
 
